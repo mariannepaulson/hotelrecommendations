@@ -1,3 +1,9 @@
+# CMPE256
+# hotelrecommendations
+
+
+
+
 ***************************************************************
 *Software installation instructions if not already installed:
 ***************************************************************
@@ -23,5 +29,3 @@
 4) run npm Start
 5) To load the data type in http://localhost:5000/get_addHotels
 6) Navigate to hotel search for hotels @ http://localhost:5000/hotel
-# CMPE256
-# hotelrecommendations
