@@ -29,10 +29,10 @@ Approach 2 folder contains UI & python script to run the application
 
 ### Instructions for approach 2
 
-1. Install requirments.txt by below command
-pip install -r requirements.txt
+1. Install hotelrecommendations/Approach2_UI/requirments.txt using below command
+   pip install -r hotelrecommendations/Approach2_UI/requirements.txt
 2. Modify the path to read the csv file in hotelrecommendations/Approach2_UI/app.py
-for example df = pd.read_csv(path where you have stored the csv file)
+   for example df = pd.read_csv(path where you have stored the csv file)
 3. To run the app type command
-python app.py
-To view the webpage go to http://127.0.0.0:5000
+   python app.py
+   To view the webpage go to http://127.0.0.0:5000
